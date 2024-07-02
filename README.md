@@ -90,8 +90,8 @@ The dataset includes 80 features (81 in training data) covering various aspects 
 │   └── app.py                   # Streamlit web application for model deployment
 ├── requirements.txt             # Python dependencies
 ├── model_and_key_components.pkl # Saved model and key components for deployment
-├── README.md                  # Project overview, setup instructions, and usage guide
-└── LICENSE                    # License information
+├── README.md                    # Project overview, setup instructions, and usage guide
+└── LICENSE                      # License information
 ```
 
 ## Setup Instructions
